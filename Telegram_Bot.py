@@ -8,7 +8,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 # Telegram Bot To Generate Key Anonymously
 # AUX-441
 
-BOT_TOKEN = "8259404058:AAGx0cajNmo2uCUpqtcJW1iMQuuI8qZZWk0" # ( example 8259404058:AAGx0cajNmo2u ) # this will not work
+BOT_TOKEN = "Your_bot_Token" # ( example 8259404058:AAGx0cajNmo2u ) # this will not work
         # you will need to Create your Bot in Botfather and Paste the Robot Token here .
 
 

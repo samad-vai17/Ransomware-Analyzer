@@ -20,7 +20,7 @@ Ransomware-Analyzer is a Python-based tool that simulates ransomware behavior fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Ransomware-Analyzer.git
+git clone https://github.com/AUX-441/Ransomware-Analyzer.git
 cd Ransomware-Analyzer
 ````
 
